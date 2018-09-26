@@ -64,7 +64,7 @@
                 <httptest>
                     <name>{$WEB_SCENARIO_URL_NAME2}</name>
                     <application>
-                        <name>SHO_Java URL Response Check</name>
+                        <name>SHO_Java URL Response Check Update Version</name>
                     </application>
                     <delay>1m</delay>
                     <attempts>1</attempts>
